@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../static/css/styles.css">
+    <title>Dynamic Route Map</title>
+</head>
+<body>
+    <h1>Find Your Route</h1>
+    <form method="POST">
+        <label for="start">Start Location:</label>
+        <input type="text" id="start" name="start" required>
+        <br><br>
+        <label for="end">End Location:</label>
+        <input type="text" id="end" name="end" required>
+        <br><br>
+        <button type="submit">Get Route</button>
+    </form>
+    {% if error %}
+    <p style="color: red;">{{ error }}</p>
+    {% endif %}
+</body>
+</html>

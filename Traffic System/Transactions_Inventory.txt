@@ -1,0 +1,33 @@
+Current Date: Jan 1, 2013
+ 
+Pick up Date: Jan 23, 2013
+Return Date: Feb 2, 2013 = Days: 0
+Full Name: Tony Strak
+Age: 38
+Location: California
+Contact: 5353533535
+Car: Van-2009
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Dec 5, 2023
+ 
+Pick up Date: Dec 7, 2023
+Return Date: Dec 10, 2023 = Days: 3
+Full Name: kawser Hossan
+Age: 20
+Location: Rupnagar R/A
+Contact: 01703493716
+Car: Pick-up-2013
+Total Rent Price: 900.00 
+--------------------------------------------------
+Current Date: Dec 5, 2023
+ 
+Pick up Date: Dec 7, 2023
+Return Date: Dec 11, 2023 = Days: 4
+Full Name: Sabbir Hossain
+Age: 22
+Location: Mirpur 2
+Contact: 0145325532
+Car: Bus-2007
+Total Rent Price: 2800.00 
+--------------------------------------------------
